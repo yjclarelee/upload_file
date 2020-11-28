@@ -1,11 +1,11 @@
-#Website to update files
-##Checklist
+# Website to update files
+## Checklist
 - [x] Full page background image
 - [x] Choose multiple files button
 - [x] Favicon in title
 
-##Version 0.0.1
-##Implementation
+## Version 0.0.1
+## Implementation
 Full page background image\
 Choose multiple files button\
 Favicon in title
