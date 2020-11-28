@@ -9,6 +9,6 @@
 Full page background image\
 Choose multiple files button\
 Favicon in title
-**Resources
+## Resources
 [Background Image](https://www.information-age.com/low-code-technology-emerging-term-definition-123465654/)\
 [Favicon](https://www.flaticon.com/free-icon/file_118098)
